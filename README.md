@@ -119,11 +119,11 @@ https://www.notion.so/6caf527bfe494a959333b7ce65dce59b?pvs=4
 
 | 구분 | 이름   | 역할            |
 | ---- | ------ | --------------- |
-| 팀장 | 김아현 | FrontEnd, Infra |
-| 팀원 | 박태호 | BackEnd, Infra  |
-| 팀원 | 박이완 | BackEnd         |
-| 팀원 | 승재홍 | FrontEnd        |
-| 팀원 | 조은서 | FrontEnd        |
+| 팀장 | 김○현 | FrontEnd, Infra |
+| 팀원 | 박○호 | BackEnd, Infra  |
+| 팀원 | 박○완 | BackEnd         |
+| 팀원 | 승○홍 | FrontEnd        |
+| 팀원 | 조○서 | FrontEnd        |
 
 ## 👨‍👨‍👧‍👦 팀 노션
 
